@@ -1,2 +1,1 @@
-# quantitative-analysis
-Quantitative Data Analysis
+# Quantitative Data Analysis
